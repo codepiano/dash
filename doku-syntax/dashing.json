@@ -1,0 +1,14 @@
+{
+    "name": "Doku Syntax",
+    "package": "doku",
+    "index": "index.html",
+    "externalURL": "https://www.dokuwiki.org/wiki:syntax",
+    "selectors": {
+        "h2[class^='section']": "Command"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false
+}
