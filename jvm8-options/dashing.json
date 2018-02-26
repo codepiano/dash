@@ -1,0 +1,16 @@
+{
+    "name": "jvm8-options",
+    "package": "jvm8-options",
+    "index": "java.html",
+    "externalURL": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html",
+    "selectors": {
+        "#JSSOR624 > div:nth-child(6) div > dl > dt": "Command",
+        "#JSSOR624 > div:nth-child(6) div > dl > a > dt": "Command",
+        "#JSSOR624 > div:nth-child(6) div > a > dl > dt": "Command"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false
+}
